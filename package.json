@@ -4,7 +4,7 @@
   "description": "Api Restful with Express Js",
   "main": "server.js",
   "scripts": {
-    "test": "nodemon server.js",
+    "dev": "nodemon server.js",
     "start": "node server.js"
   },
   "author": "Saul Navarro",
